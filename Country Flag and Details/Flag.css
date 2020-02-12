@@ -5,7 +5,7 @@
 
 }
 body{
-    background-color: darkgray;
+    background-image: linear-gradient(orange,lime,yellow,blue);
 }
 .card{
     display: grid;
