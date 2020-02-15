@@ -48,10 +48,10 @@ switch(input){
     break;
 
     case 5:
-
         break;
 
     default:
     alert("Enter any valid choice");
 }
+    break;
 }
